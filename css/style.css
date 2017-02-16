@@ -1,1 +1,17 @@
+h1 {
+   color: #3333cc;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-size: 200%;
+}
+form {
+   color: #3333ff;
+   font-weight: italic;
+   font-family: "Lucida Sans Unicode", "Lucida Grande", serif;
+   font-size: 150%;
+   border: 2px solid #003300;
+}
 
+input {
+   height: 35%;
+   font-size: 80%
+}
